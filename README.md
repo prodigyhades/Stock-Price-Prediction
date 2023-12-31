@@ -4,19 +4,19 @@ Welcome to the Stock Price Prediction repository! 📈 This space is dedicated t
 
 ## 📂 Repository Contents
 
-### 1. [Main.ipynb](Stock-Price-Prediction/Main.ipynb)
+### 1. [Main.ipynb](Stock-Price-Prediction/Stock Price Prediction/Main.ipynb)
 
 The primary notebook for predicting stock 'Close' prices using multiple machine learning models.
 
-### 2. [Descriptive.ipynb](Stock-Price-Prediction/Descriptive.ipynb)
+### 2. [Descriptive.ipynb](Stock-Price-Prediction/Stock Price Prediction/Descriptive.ipynb)
 
 Similar to 'Main.ipynb,' this notebook provides a detailed explanation of the code segments used for stock price prediction.
 
-### 3. [Using_EMA.ipynb](Stock-Price-Prediction/Using_EMA.ipynb)
+### 3. [Using_EMA.ipynb](Stock-Price-Prediction/Stock Price Prediction/Using_EMA.ipynb)
 
 Explores stock price prediction using the Exponential Moving Average (EMA) technique instead of the method in 'Main.ipynb'.
 
-### 4. [StockMarket.xlsx](Stock-Price-Prediction/StockMarket.xlsx)
+### 4. [StockMarket.xlsx](Stock-Price-Prediction/Stock Price Prediction/StockMarket.xlsx)
 The dataset used for training and testing the prediction models.
 
 #### Happy Predicting! 📊✨
